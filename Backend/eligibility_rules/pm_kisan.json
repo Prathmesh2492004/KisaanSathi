@@ -1,0 +1,29 @@
+{
+  "scheme_id": "pm_kisan",
+  "name": "PM-KISAN Samman Nidhi",
+  "level": "central",
+  "benefit_summary": "\u20b96,000 per year, paid in 3 installments of \u20b92,000 directly to bank account",
+  "source_file": "pm_kisan.txt",
+  "eligibility": {
+    "must_be_landholding_farmer_family": true,
+    "max_land_holding_hectares": null,
+    "min_age": null,
+    "max_age": null
+  },
+  "exclusions": [
+    "institutional_land_holder",
+    "family_member_constitutional_post_holder",
+    "family_member_current_or_former_minister",
+    "family_member_current_or_former_mp_or_mla",
+    "family_member_government_employee_above_group_d",
+    "income_tax_payer_last_assessment_year",
+    "registered_professional_doctor_engineer_lawyer_ca",
+    "pensioner_with_monthly_pension_10000_or_more"
+  ],
+  "required_documents": [
+    "7/12 utara (land record)",
+    "Aadhaar card",
+    "Bank account (linked to Aadhaar)"
+  ],
+  "notes": "VERIFY against your own pm_kisan.txt \u2014 exclusion list and land holding rules have changed over time and this must match the current official criteria."
+}

@@ -1,0 +1,31 @@
+PRADHAN MANTRI KRISHI SINCHAYEE YOJANA (PMKSY) — MICRO-IRRIGATION SUBSIDY
+
+What is it?
+PMKSY's micro-irrigation component provides financial subsidy to farmers for installing drip irrigation and sprinkler irrigation systems on their farms. The scheme's motto is "More Crop Per Drop" — helping farmers use water more efficiently, reduce water wastage, and improve crop yields even in water-scarce regions.
+
+Who is eligible?
+- Any farmer — owner, tenant, or sharecropper — who has an existing water source for irrigation (bore well, canal connection, farm pond, or similar)
+- No strict land holding cap, though subsidy amount may be capped per hectare
+- Priority and higher subsidy percentages are often given to small and marginal farmers, and to SC/ST farmers
+
+What is the subsidy amount?
+- General category farmers: typically 45% subsidy on the cost of the micro-irrigation system
+- Small and marginal farmers, SC/ST farmers: typically 55% subsidy
+- Some states (including Maharashtra, through MahaDBT) provide an additional top-up subsidy on top of the central government's share, which can push total coverage significantly higher
+
+What does it cover?
+- Drip irrigation systems (for row crops, orchards, plantation crops)
+- Sprinkler irrigation systems (for field crops)
+- Related components like filters, control valves, and pipelines
+
+How to apply
+Through the state's DBT (Direct Benefit Transfer) agriculture portal — in Maharashtra, this is the MahaDBT Farmer portal. The farmer selects an empaneled dealer, gets a quotation, and applies online with land and water source proof. Subsidy is typically paid after installation is verified.
+
+Required documents
+- 7/12 utara (land record)
+- Aadhaar card
+- Bank account linked to Aadhaar
+- Proof of water source (bore well permit, canal connection certificate, or farm pond photo)
+- Quotation from an empaneled equipment dealer
+
+Note: Subsidy percentages, empaneled dealer lists, and application windows change periodically and vary by state — always confirm current rates on the official MahaDBT portal before applying.

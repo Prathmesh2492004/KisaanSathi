@@ -1,0 +1,27 @@
+{
+  "scheme_id": "pm_kisan_maandhan",
+  "name": "PM Kisan Maandhan Yojana",
+  "level": "central",
+  "benefit_summary": "Monthly pension of \u20b93,000 after age 60, for small and marginal farmers who contribute a small monthly amount (\u20b955\u2013\u20b9200 depending on entry age) matched by the government",
+  "source_file": "pm_kisan_maandhan.txt",
+  "eligibility": {
+    "must_be_landholding_farmer_family": true,
+    "max_land_holding_hectares": 2,
+    "min_age": 18,
+    "max_age": 40
+  },
+  "exclusions": [
+    "covered_by_other_statutory_pension_scheme",
+    "income_tax_payer_last_assessment_year",
+    "family_member_government_employee_above_group_d",
+    "registered_professional_doctor_engineer_lawyer_ca",
+    "pensioner_with_monthly_pension_10000_or_more"
+  ],
+  "required_documents": [
+    "7/12 utara (land record)",
+    "Aadhaar card",
+    "Bank account (savings account with IFSC)",
+    "Age proof"
+  ],
+  "notes": "VERIFY against your own pm_kisan_maandhan.txt \u2014 this is a voluntary contributory pension scheme, entry age determines monthly contribution amount, confirm current contribution slabs."
+}

@@ -1,0 +1,20 @@
+{
+  "scheme_id": "pmfby",
+  "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+  "level": "central",
+  "benefit_summary": "Subsidized crop insurance covering yield loss from natural calamities, pests, and disease",
+  "source_file": "pmfby.txt",
+  "eligibility": {
+    "must_be_landholding_farmer_family": false,
+    "farmer_type_allowed": ["owner_farmer", "tenant_farmer", "sharecropper"],
+    "crop_must_be_notified_in_district": true
+  },
+  "exclusions": [],
+  "required_documents": [
+    "7/12 utara (land record) or tenancy/lease agreement",
+    "Aadhaar card",
+    "Bank account",
+    "Sowing declaration"
+  ],
+  "notes": "VERIFY against your own pmfby.txt \u2014 enrollment windows and notified-crop lists vary by season and district."
+}

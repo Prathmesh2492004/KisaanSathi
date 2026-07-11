@@ -1,0 +1,20 @@
+{
+  "scheme_id": "karjmafi_maharashtra",
+  "name": "Punyashlok Ahilyadevi Holkar Karjmafi Yojana",
+  "level": "state",
+  "state": "Maharashtra",
+  "benefit_summary": "Waiver of up to \u20b92 lakh on overdue short-term crop loans (cutoff: overdue as of 30 September 2025), plus a \u20b950,000 incentive for farmers who repaid their loans on time",
+  "source_file": "karjmafi_maharashtra.txt",
+  "eligibility": {
+    "must_reside_in_state": "Maharashtra",
+    "requires_true_fields": ["has_overdue_crop_loan_before_cutoff"]
+  },
+  "exclusions": [],
+  "required_documents": [
+    "7/12 utara (land record)",
+    "Aadhaar card",
+    "Bank loan account details (nationalised bank, district cooperative bank, or Regional Rural Bank)",
+    "Loan sanction and outstanding balance statement"
+  ],
+  "notes": "VERIFY against your own karjmafi_maharashtra.txt \u2014 announced in the Maharashtra 2026 state budget; the official application portal and exact disbursal process were still being notified at time of writing. Confirm current status before advising farmers."
+}

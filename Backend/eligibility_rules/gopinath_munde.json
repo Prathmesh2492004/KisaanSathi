@@ -1,0 +1,21 @@
+{
+  "scheme_id": "gopinath_munde",
+  "name": "Gopinath Munde Shetkari Apghat Suraksha Sanugrah Anudan Yojana",
+  "level": "state",
+  "state": "Maharashtra",
+  "benefit_summary": "Compensation to farmer families for accidental death or disability of a farmer",
+  "source_file": "gopinath_munde.txt",
+  "eligibility": {
+    "must_be_registered_farmer_in_state": "Maharashtra",
+    "min_age": 10,
+    "max_age": 75
+  },
+  "exclusions": [],
+  "required_documents": [
+    "7/12 utara (land record)",
+    "Death certificate or disability certificate (at time of claim)",
+    "FIR / post-mortem report (for accidental death claims)",
+    "Bank account of nominee"
+  ],
+  "notes": "VERIFY against your own gopinath_munde.txt \u2014 age brackets and claim documentation requirements should be confirmed against the current government resolution (GR)."
+}

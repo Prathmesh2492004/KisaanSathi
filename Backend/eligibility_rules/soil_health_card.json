@@ -1,0 +1,17 @@
+{
+  "scheme_id": "soil_health_card",
+  "name": "Soil Health Card Scheme",
+  "level": "central",
+  "benefit_summary": "Free soil testing every 2 years with a report on nutrient status and fertilizer/dosage recommendations \u2014 increasingly required before applying for other input-based subsidies",
+  "source_file": "soil_health_card.txt",
+  "eligibility": {
+    "must_be_landholding_farmer_family": false,
+    "farmer_type_allowed": ["owner_farmer", "tenant_farmer", "sharecropper", "oral_lessee"]
+  },
+  "exclusions": [],
+  "required_documents": [
+    "7/12 utara (land record) or proof of land under cultivation",
+    "Aadhaar card"
+  ],
+  "notes": "VERIFY against your own soil_health_card.txt \u2014 as of recent updates this card is being made mandatory as a prerequisite for fertilizer and seed subsidies in some states, confirm current requirement status."
+}

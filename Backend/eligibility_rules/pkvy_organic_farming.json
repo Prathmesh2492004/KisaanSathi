@@ -1,0 +1,20 @@
+{
+  "scheme_id": "pkvy_organic_farming",
+  "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+  "level": "central",
+  "benefit_summary": "\u20b950,000 per hectare over 3 years for farmers adopting organic farming in a cluster (minimum 50 farmers / 50 acres per cluster), covering certification, inputs, and processing",
+  "source_file": "pkvy_organic_farming.txt",
+  "eligibility": {
+    "must_be_landholding_farmer_family": false,
+    "farmer_type_allowed": ["owner_farmer", "tenant_farmer", "sharecropper"],
+    "requires_organic_farming_interest": true
+  },
+  "exclusions": [],
+  "required_documents": [
+    "7/12 utara (land record)",
+    "Aadhaar card",
+    "Bank account",
+    "Cluster group registration (formed with neighboring farmers)"
+  ],
+  "notes": "VERIFY against your own pkvy_organic_farming.txt \u2014 this scheme is cluster-based, so an individual farmer generally cannot apply alone; confirm current cluster formation process in your district."
+}

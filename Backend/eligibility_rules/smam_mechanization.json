@@ -1,0 +1,19 @@
+{
+  "scheme_id": "smam_mechanization",
+  "name": "Sub-Mission on Agricultural Mechanization (SMAM)",
+  "level": "central",
+  "benefit_summary": "Subsidy of 40-50% on farm equipment (tractors, power tillers, threshers, harvesters) \u2014 higher percentage for SC/ST, women, and small/marginal farmers",
+  "source_file": "smam_mechanization.txt",
+  "eligibility": {
+    "must_be_landholding_farmer_family": false,
+    "farmer_type_allowed": ["owner_farmer", "tenant_farmer", "sharecropper"]
+  },
+  "exclusions": [],
+  "required_documents": [
+    "7/12 utara (land record)",
+    "Aadhaar card",
+    "Bank account",
+    "Quotation from an empaneled equipment dealer"
+  ],
+  "notes": "VERIFY against your own smam_mechanization.txt \u2014 subsidy percentage depends on farmer category and equipment type, and there are often per-district or per-village annual caps on how many subsidies are approved."
+}

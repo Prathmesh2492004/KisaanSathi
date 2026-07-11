@@ -1,0 +1,21 @@
+{
+  "scheme_id": "pmksy_micro_irrigation",
+  "name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) \u2014 Micro-Irrigation",
+  "level": "central",
+  "benefit_summary": "Subsidy on drip and sprinkler irrigation systems \u2014 typically 55% for small/marginal farmers, 45% for other farmers (rates vary by state top-up)",
+  "source_file": "pmksy_micro_irrigation.txt",
+  "eligibility": {
+    "must_be_landholding_farmer_family": false,
+    "farmer_type_allowed": ["owner_farmer", "tenant_farmer", "sharecropper"],
+    "requires_irrigation_source": true
+  },
+  "exclusions": [],
+  "required_documents": [
+    "7/12 utara (land record)",
+    "Aadhaar card",
+    "Bank account",
+    "Water source proof (bore well / canal / farm pond)",
+    "Quotation from an empaneled dealer"
+  ],
+  "notes": "VERIFY against your own pmksy_micro_irrigation.txt \u2014 subsidy percentages vary by farmer category (general / SC-ST / small-marginal) and by state top-up schemes; confirm current rates on MahaDBT for Maharashtra."
+}

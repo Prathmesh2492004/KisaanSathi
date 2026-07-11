@@ -1,0 +1,19 @@
+{
+  "scheme_id": "interest_subvention",
+  "name": "Modified Interest Subvention Scheme (MISS)",
+  "level": "central",
+  "benefit_summary": "Crop loans up to \u20b93 lakh at an effective interest rate of 4% per year for farmers who repay promptly (2% base subvention + 3% prompt repayment incentive on a 7% base rate)",
+  "source_file": "interest_subvention.txt",
+  "eligibility": {
+    "must_be_landholding_farmer_family": false,
+    "must_have_kcc": true,
+    "max_land_holding_hectares": null
+  },
+  "exclusions": [],
+  "required_documents": [
+    "Existing Kisan Credit Card",
+    "Loan account statement",
+    "Aadhaar card"
+  ],
+  "notes": "VERIFY against your own interest_subvention.txt \u2014 this benefit is applied automatically by the lending bank on eligible KCC loans, not a separate application; confirm current base rate and subvention percentages."
+}

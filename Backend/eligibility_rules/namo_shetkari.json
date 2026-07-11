@@ -1,0 +1,17 @@
+{
+  "scheme_id": "namo_shetkari",
+  "name": "Namo Shetkari Maha Sanman Nidhi",
+  "level": "state",
+  "state": "Maharashtra",
+  "benefit_summary": "\u20b96,000 per year from the Maharashtra state government, on top of PM-KISAN, paid in 3 installments",
+  "source_file": "namo_shetkari.txt",
+  "eligibility": {
+    "must_be_pm_kisan_beneficiary": true,
+    "must_reside_in_state": "Maharashtra"
+  },
+  "exclusions": [],
+  "required_documents": [
+    "Same as PM-KISAN \u2014 no separate application needed if already enrolled in PM-KISAN"
+  ],
+  "notes": "VERIFY against your own namo_shetkari.txt \u2014 this scheme generally auto-enrolls existing PM-KISAN beneficiaries in Maharashtra, confirm this is still accurate."
+}

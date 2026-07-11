@@ -1,0 +1,22 @@
+{
+  "scheme_id": "kcc",
+  "name": "Kisan Credit Card (KCC)",
+  "level": "central",
+  "benefit_summary": "Short-term credit for crop production and allied activities at subsidized interest",
+  "source_file": "kcc.txt",
+  "eligibility": {
+    "must_be_landholding_farmer_family": false,
+    "farmer_type_allowed": ["owner_farmer", "tenant_farmer", "oral_lessee", "sharecropper", "self_help_group_member"],
+    "min_age": 18,
+    "max_age": 75,
+    "co_applicant_required_above_age": 60
+  },
+  "exclusions": [],
+  "required_documents": [
+    "7/12 utara (land record) for landowners",
+    "Aadhaar card",
+    "PAN card (for higher credit limits)",
+    "Passport-size photograph"
+  ],
+  "notes": "VERIFY against your own kcc.txt \u2014 credit limits and interest subvention terms vary by bank and are revised periodically."
+}
