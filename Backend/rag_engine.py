@@ -18,6 +18,10 @@ CHROMA_DB_DIR = os.path.join(os.path.dirname(__file__), "chroma_db")
 COLLECTION_NAME = "kisaan_schemes"
 TOP_K = 4  # number of chunks to retrieve per question
 
+# Groq retires models regularly. Set GROQ_MODEL in .env to switch without code changes;
+# see the current list at https://console.groq.com/docs/models
+GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+
 _embedding_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
     model_name="all-MiniLM-L6-v2"
 )
@@ -67,7 +71,7 @@ def answer_question(query):
 Farmer's question: {query}"""
 
     response = _groq_client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model=GROQ_MODEL,
         max_tokens=1000,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
